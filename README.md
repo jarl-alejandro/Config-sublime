@@ -1,4 +1,6 @@
 # Config-sublime
+
+##Seti_UI
 {
 
 	"always_show_minimap_viewport": true,
