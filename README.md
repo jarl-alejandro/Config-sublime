@@ -20,5 +20,6 @@
 	"line_padding_top": 1,
 	"save_on_focus_lost": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"tab_size": 2,
 }
